@@ -1,5 +1,3 @@
-Axioms and axioms-enrichrd with sentient computational capability and bodily/embodiment capability    body, td { font-family: Segoe UI; font-size: 10pt; }  
-
 Axioms and axioms-enrichrd with sentient computational capability and bodily/embodiment capability
 ==================================================================================================
 
