@@ -10,6 +10,7 @@ To reconcile these aparently opposing viewpoints, I have reached the following, 
 * My notes will be stored here, for safehaven on the GitHub ship, and to be publicly consulted, to irk, annoy, inspire questions or doubt, or serve as wonder, for either the scientific or psychiatric community.
 * In parallel, I will continue my commercial effort on making a more human-readable, digestable version of **Embodied Computational Calculus**, which I aim to be publishing by the end of 2020.
 * In the meanwhile, any critique or feedback are appreciated and encouraged.
+* Pull requests are welcome.
 
 
 
