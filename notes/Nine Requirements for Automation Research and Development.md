@@ -52,6 +52,6 @@ _Bogdan Bocse_
 7.  Typed Multi-Graph or Hyper-graph, hosted on a distributed, flexible infrastrucutre
 8.  MergeSort Chain signature (the list of left/right/split decisions made by the algorithm, hased) when several partially ordered streams are merged together. The chain signature represents a way to track, a posteriori, if some consenting actor other than yourself from that chain has been processed "in front of you" or "behind of you". You can think of this as a partially recomposable queue.
 9.  Binarizable DTOs and layered-semantic compression and encoding (Multi-Layered Huffman encoding):
-10.
+
 
 
