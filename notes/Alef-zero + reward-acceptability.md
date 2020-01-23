@@ -20,18 +20,10 @@ _Bogdan Bocse_
 **Acceptability** (typed intensity of observable or likely-cognitively-reacheables), as based on **expectation-of-delivery **(probability)/**exploration **(degrees of freedom, surface) loop (deals with budget to experimentation and retesting)
 
 
-
 Reward=
-
 Expectation-of-fulfilmment=cached probability-perceived of an events occuring (the (0,1) interval concatenated with {1/alef(i) } and {1/omega(j)} );
 
-
-
-
-
 * * *
-
-
 
 Approximating trans=continuous vicinities of 0 and 1 by their graph-distance to the inlegal/inevaluable/unknown/unexperienced/unconceptualized items.
 
