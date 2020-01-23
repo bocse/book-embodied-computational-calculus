@@ -11,7 +11,7 @@ _12/26/2019 4:51 AM_
 
 **Location:**
 
-[_44°25'37 N  26°2'50 E_](http://maps.google.com/maps?z=6&q=44.426873,26.047236)
+[_44°25'37 N  26°2'50 E_](http://maps.google.com/maps?z=6&q=44.4268,26.0472)
 
 
 
