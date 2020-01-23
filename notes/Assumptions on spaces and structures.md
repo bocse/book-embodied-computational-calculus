@@ -24,7 +24,7 @@ Durability: Statefulness and statelessness.
   
 
 ![](Assumptions on spaces and structures_files/image.png)
-
+Source: [Group-like structures](https://en.wikipedia.org/wiki/Template:Group-like_structures)
   
 
   

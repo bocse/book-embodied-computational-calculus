@@ -1,5 +1,3 @@
-Atunci cand spui un numar faci o serie de presupuneri despre felul in care functioneaza lumea in jurul a ceea ce reprezinta numarul tau.    body, td { font-family: Segoe UI; font-size: 10pt; }  
-
 Atunci cand spui un numar faci o serie de presupuneri despre felul in care functioneaza lumea in jurul a ceea ce reprezinta numarul tau.
 ========================================================================================================================================
 
