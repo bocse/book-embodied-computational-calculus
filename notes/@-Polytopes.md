@@ -11,7 +11,7 @@ _7/8/2019 2:22 PM_
 
 **Location:**
 
-[_44°26'4 N  26°4'1 E_](http://maps.google.com/maps?z=6&q=44.446,26.0701)
+[_Bucharest, Calea Plevnei_](http://maps.google.com/maps?z=6&q=44.4,26.07)
 
 
 
